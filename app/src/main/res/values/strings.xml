@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">weatherAndroid</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_nastroiki">Настройки</string>
+
+</resources>
